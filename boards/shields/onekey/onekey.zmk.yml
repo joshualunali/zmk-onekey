@@ -1,0 +1,8 @@
+file_format: "1"
+id: onekey
+name: OneKey
+type: shield
+url: https://github.com/
+requires: [pro_micro]
+features:
+  - keys
